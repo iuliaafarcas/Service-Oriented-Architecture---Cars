@@ -28,13 +28,6 @@ If you don't already have a Spring Boot project, generate one using Spring Initi
 
 * JJwt (JSON Web Tokens)
 
-Alternatively, clone the example project from GitHub.
-
-$ git clone https://github.com/your-repo-link-here
-$ cd your-project-folder
-$ mvn clean install
-$ mvn spring-boot:run
-
 Step 1: Understanding JWT Token Generation and Validation
 
 A key part of integrating JWT involves generating tokens after user authentication and validating these tokens in subsequent requests.
